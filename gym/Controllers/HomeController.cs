@@ -1,21 +1,28 @@
 using System.Diagnostics;
 using gym.Models;
+using gym.Data;             // ????? ??? using
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;  // ??? async ???????
 
 namespace gym.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly AppDbContext _context;  // ????? ????
 
-        public HomeController(ILogger<HomeController> logger)
+        // ????? AppDbContext ? ???????????
+        public HomeController(ILogger<HomeController> logger, AppDbContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
-        public IActionResult Index()
+        // ????? ????? async ? ?????????? ?????????
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var students = await _context.Students.ToListAsync();
+            return View(students);
         }
 
         public IActionResult Privacy()

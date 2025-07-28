@@ -3,8 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\views\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\views\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\models\\studentdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\models\\studentdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\models\\subgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\models\\subgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\gym.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\gym.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|c:\\users\\cobta\\source\\repos\\gymprojectabonement\\gym\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{757106EA-BA66-4605-B7CE-CB68AABFFAA1}|gym\\gym.csproj|solutionrelative:gym\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +114,299 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "gym\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "gym\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:51:08.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cobta\\Source\\Repos\\gymprojectabonement\\gym\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "gym\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Cobta\\Source\\Repos\\gymprojectabonement\\gym\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "gym\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T11:33:35.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Views\\Register.cshtml",
+              "RelativeDocumentMoniker": "gym\\Views\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Views\\Register.cshtml",
+              "RelativeToolTip": "gym\\Views\\Register.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T11:30:27.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "gym\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "gym\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:27:57.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "gym\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "gym\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:27:38.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "gym\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "gym\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:26:29.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "gym\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "gym\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:20:31.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\Subscription.cs",
+              "RelativeDocumentMoniker": "gym\\Models\\Subscription.cs",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\Subscription.cs",
+              "RelativeToolTip": "gym\\Models\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:12:46.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Subgroup.cs",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\Subgroup.cs",
+              "RelativeDocumentMoniker": "gym\\Models\\Subgroup.cs",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\Subgroup.cs",
+              "RelativeToolTip": "gym\\Models\\Subgroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:12:25.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentDirection.cs",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\StudentDirection.cs",
+              "RelativeDocumentMoniker": "gym\\Models\\StudentDirection.cs",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\StudentDirection.cs",
+              "RelativeToolTip": "gym\\Models\\StudentDirection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:11:59.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\Direction.cs",
+              "RelativeDocumentMoniker": "gym\\Models\\Direction.cs",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\Direction.cs",
+              "RelativeToolTip": "gym\\Models\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:11:37.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "gym\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "gym\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T18:31:30.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "gym\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "gym\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:45:13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Program.cs",
+              "RelativeDocumentMoniker": "gym\\Program.cs",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Program.cs",
+              "RelativeToolTip": "gym\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:42:22.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "gym\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "gym\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA7wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:41:00.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "gym.csproj",
+              "DocumentMoniker": "C:\\Users\\Cobta\\Source\\Repos\\gymprojectabonement\\gym\\gym.csproj",
+              "RelativeDocumentMoniker": "gym\\gym.csproj",
+              "ToolTip": "C:\\Users\\Cobta\\Source\\Repos\\gymprojectabonement\\gym\\gym.csproj",
+              "RelativeToolTip": "gym\\gym.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T17:40:27.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "gym\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Models\\Student.cs",
+              "RelativeToolTip": "gym\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:39:22.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\appsettings.json",
+              "RelativeDocumentMoniker": "gym\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\appsettings.json",
+              "RelativeToolTip": "gym\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T17:34:44.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "gym\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "gym\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T18:06:56.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "gym\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "gym\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T18:06:55.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "gym\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "gym\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-10T18:06:46.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "gym\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "gym\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T14:43:53.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "gym\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Cobta\\source\\repos\\gymprojectabonement\\gym\\Controllers\\HomeController.cs",
               "RelativeToolTip": "gym\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T18:29:42.023Z",
               "EditorCaption": ""

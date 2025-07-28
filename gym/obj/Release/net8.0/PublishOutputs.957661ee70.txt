@@ -1,0 +1,7 @@
+C:\Users\Cobta\Source\Repos\gymprojectabonement\gym\obj\Release\net8.0\PubTmp\Out\gym.exe
+C:\Users\Cobta\Source\Repos\gymprojectabonement\gym\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Cobta\Source\Repos\gymprojectabonement\gym\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Cobta\Source\Repos\gymprojectabonement\gym\obj\Release\net8.0\PubTmp\Out\gym.dll
+C:\Users\Cobta\Source\Repos\gymprojectabonement\gym\obj\Release\net8.0\PubTmp\Out\gym.deps.json
+C:\Users\Cobta\Source\Repos\gymprojectabonement\gym\obj\Release\net8.0\PubTmp\Out\gym.runtimeconfig.json
+C:\Users\Cobta\Source\Repos\gymprojectabonement\gym\obj\Release\net8.0\PubTmp\Out\gym.pdb
